@@ -4,9 +4,12 @@ This project builds a gender and age detector to approximate a person's gender a
 
 *Additional Python Libraries Required :*
   
-OpenCV
+OpenCV:
+     
      pip install opencv-python
-argparse
+     
+argparse:
+     
      pip install argparse
 
 *About the project:*
